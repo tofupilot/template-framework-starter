@@ -1,8 +1,8 @@
-# TofuPilot Framework Starter
+# Framework Starter
 
 ![Cover](cover.png)
 
-Minimal TofuPilot Framework procedure with a single phase.
+Simplest procedure showing basic structure.
 
 ## What's Inside
 
@@ -10,9 +10,13 @@ Minimal TofuPilot Framework procedure with a single phase.
 - `phases/hello_world.py`: single Python phase
 - `pyproject.toml`: uv-managed Python project
 
-## Use This Template
+## Get Started
 
-Clone it from the **New Procedure** flow in TofuPilot. TofuPilot creates the repository in your account, links a procedure, builds the first deployment, and pushes it to a station.
+1. Sign up for a free TofuPilot account at [tofupilot.app](https://www.tofupilot.app/auth/signup).
+2. Open the **New Procedure** flow in the dashboard and clone this template.
+3. Follow the dashboard's instructions to set up a station and run the procedure.
+
+For deeper guides, see the [TofuPilot docs](https://www.tofupilot.com/docs/framework).
 
 ## Structure
 
@@ -24,7 +28,3 @@ Clone it from the **New Procedure** flow in TofuPilot. TofuPilot creates the rep
 ├── pyproject.toml
 └── README.md
 ```
-
-## Next Steps
-
-See the [TofuPilot guides](https://www.tofupilot.com/guides) for more templates.
